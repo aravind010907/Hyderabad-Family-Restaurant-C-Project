@@ -10,5 +10,5 @@ A terminal-based restaurant management and billing application built using the C
 
 ## How to Run
 Designed to run in legacy C environments like **Turbo C++** or **DOSBox**. 
-1. Open `restaurant.c` in Turbo C++.
+1. Open `PROJREST.c` in Turbo C++.
 2. Press `Ctrl + F9` to compile and run.
